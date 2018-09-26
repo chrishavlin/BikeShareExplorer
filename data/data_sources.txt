@@ -1,0 +1,2 @@
+Portland,OR,https://www.biketownpdx.com/system-data
+Boulder,CO,https://boulder.bcycle.com/data-reports
